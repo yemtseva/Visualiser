@@ -1,0 +1,22 @@
+﻿
+.rightS {
+    right: 2%;
+    position: absolute;
+
+}
+
+.leftS {
+    left: 2%;
+    position: absolute;
+}
+
+.center {
+
+    left: 44.8%;
+    position: relative;
+}
+
+button.link {
+    background: none;
+    border: none;
+}
